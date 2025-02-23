@@ -1,5 +1,13 @@
-# 💫 About Me:
-Soy estudiante de Ingeniería de Sistemas con un gran interés en el desarrollo web. 🚀<br><br>🔭 Actualmente trabajando en mejorar mis habilidades en el desarrollo Frontend con React JS.<br><br>👯 Busco colaborar en proyectos de desarrollo web donde pueda aportar con mi conocimiento en Frontend y aprender sobre el Backend.<br><br>🌱 Actualmente aprendiendo el manejo del Framework React y tecnologías relacionadas con el desarrollo frontend.<br><br>🎯 Mi Objetivo principal es convertirme en un Desarrollador Web Fullstack competente. 💪🔥<br><br>🔨 Proyectos:<br><br> - fixseven.com: Sitio web diseñado para [breve descripción del propósito o funcionalidad del proyecto].<br><br> - CENTELLA: Un simulador de física que [breve descripción de las características o funcionalidades del proyecto].<br><br>🎨 Hobbies:<br><br> - Programar y explorar nuevas tecnologías.<br><br> - Practicar deportes, especialmente el gimnasio y el fútbol.<br><br>⚡ Dato curioso: Mi fruta favorita es el mango. 🥭
+# 👨‍💻 About Me:
+Soy estudiante de **Ingeniería de Sistemas** con un gran interés en el **Desarrollo Web**. 🚀<br><br>🔭 Actualmente trabajando en mejorar mis habilidades en el desarrollo **Frontend** con React JS.<br>🤝 Busco colaborar en proyectos de desarrollo web aplicando Forntend y aprender sobre el **Backend**.<br>🌱 Actualmente aprendiendo el manejo del **Framework React** y tecnologías relacionadas con el desarrollo Frontend.<br>🎯 Mi **Objetivo** es convertirme en un **Desarrollador Web Fullstack** competente. 💪🔥<br><br>🔨 **Proyectos**:
+* ***Fixseven***: Sitio web diseñado para la solución de fallos y requerimientos Informáticos.
+* ***Centella***: Un simulador de física que muestra el comportamiento de cargas electricas.
+
+🎨 **Hobbies**:
+* Programar y explorar nuevas tecnologías.
+* Practicar deportes, especialmente el gimnasio y el fútbol.
+
+⚡ Dato curioso: Mi fruta favorita es el mango. 🥭
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adrianfelipe.vargasrivera.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adriaa.an) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-vargas-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianfelipevr@gmail.com) 
