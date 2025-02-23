@@ -62,11 +62,11 @@
 <a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 
 </div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=adrianfvr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianfvr/adrianfvr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianfvr/adrianfvr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
