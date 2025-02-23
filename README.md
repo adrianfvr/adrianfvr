@@ -14,7 +14,7 @@
       <ul>
         <li><a href="www.fixseven.com"><strong>Fixseven</strong></a> : Sitio web diseñado para la solución de fallos y requerimientos Informáticos.</li>
         <li><a href="https://adrianfvr.github.io/simulador-final/"><strong>Centella</strong></a> : Un simulador de física que muestra el comportamiento de cargas electricas.</li>
-      </ul><br><br>
+      </ul><br>
       <h2>💻 Tecnologías</h1>
       <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -42,16 +42,10 @@
   </tr>
 </table>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianfvr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianfvr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-###
-
-## <div align="center">🌐 Redes Sociales</div>
+<table>
+  <tr>
+    <td>
+      <h2 align="center">🌐 Redes Sociales</h2>
 
 <div align="center">
   <a href="https://instagram.com/_adriaa.an"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
@@ -62,14 +56,22 @@
 <a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 
 </div>
+    </td>
+    <td>
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianfvr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianfvr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" height="150" alt="languages graph"  />
+</div>
+    </td>
+  </tr>
+</table>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianfvr/adrianfvr/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianfvr/adrianfvr/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=adrianfvr&icon=0&color=0)](https://visitcount.itsvg.in)
 
