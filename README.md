@@ -1,32 +1,78 @@
-# 👨‍💻 About Me:
-Soy estudiante de **Ingeniería de Sistemas** con un gran interés en el **Desarrollo Web**. 🚀<br><br>🔭 Actualmente trabajando en mejorar mis habilidades en el desarrollo **Frontend** con React JS.<br>🤝 Busco colaborar en proyectos de desarrollo web aplicando Forntend y aprender sobre el **Backend**.<br>🌱 Actualmente aprendiendo el manejo del **Framework React** y tecnologías relacionadas con el desarrollo Frontend.<br>🎯 Mi **Objetivo** es convertirme en un **Desarrollador Web Fullstack** competente. 💪🔥<br><br>🔨 **Proyectos**:
-* ***Fixseven***: Sitio web diseñado para la solución de fallos y requerimientos Informáticos.
-* ***Centella***: Un simulador de física que muestra el comportamiento de cargas electricas.
+<table>
+  <tr>
+    <td>
+      <h1>👨‍💻 Sobre Mi</h1>
+      Estudiante de <strong>Ingeniería de Sistemas</strong> con un gran interés en el <strong>Desarrollo Web</strong>. 🚀<br><br>🔭 Actualmente trabajando en mi <strong>portafolio</strong>.<br>🤝 Busco colaborar en proyectos de desarrollo web aplicando Forntend y aprender sobre el <strong>Backend</strong>.<br>🌱 Actualmente aprendiendo el manejo del <strong>Framework React</strong> <br>🎯 Mi <strong>Objetivo</strong> es convertirme en un <strong>Desarrollador Web Fullstack</strong> competente. 💪🔥<br><br>🎨 <strong>Hobbies</strong>:<br>
+      <ul>
+        <li>Programar y explorar nuevas tecnologías.</li>
+        <li>Practicar deportes, especialmente el gimnasio y el fútbol.</li>
+      </ul>
+      ⚡ <strong>Dato curioso</strong>: Mi fruta favorita es el mango. 🥭
+    </td>
+    <td>
+      <h2>🔨 Proyectos</h1>
+      <ul>
+        <li><a href="www.fixseven.com"><strong>Fixseven</strong></a> : Sitio web diseñado para la solución de fallos y requerimientos Informáticos.</li>
+        <li><a href="https://adrianfvr.github.io/simulador-final/"><strong>Centella</strong></a> : Un simulador de física que muestra el comportamiento de cargas electricas.</li>
+      </ul><br><br>
+      <h2>💻 Tecnologías</h1>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="30" alt="sass logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />        
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"/>
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo" />
+        <img width="12" />
+      </div>
+    </td>
+  </tr>
+</table>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianfvr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianfvr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+  
+<img align="right" height="150" src="./"  />
+</div>
 
-🎨 **Hobbies**:
-* Programar y explorar nuevas tecnologías.
-* Practicar deportes, especialmente el gimnasio y el fútbol.
+###
 
-⚡ Dato curioso: Mi fruta favorita es el mango. 🥭
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adrianfelipe.vargasrivera.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adriaa.an) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-vargas-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianfelipevr@gmail.com) 
+###
+## <div align="center">🌐 Redes Sociales</div>
+<div align="center">
+  <a href="https://instagram.com/_adriaa.an"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+    <a href="https://facebook.com/adrianfelipe.vargasrivera.9"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adrianfvr&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adrianfvr&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianfvr&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <a href="www"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adrianfvr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adrianfvr&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 [![](https://visitcount.itsvg.in/api?id=adrianfvr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
