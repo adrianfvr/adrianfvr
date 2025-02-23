@@ -46,24 +46,27 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adrianfvr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianfvr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
   
-<img align="right" height="150" src="./"  />
+<img align="right" src="./assets/proggraming-gf.gif"  />
 </div>
 
 ###
 
-
 ###
+
 ## <div align="center">🌐 Redes Sociales</div>
+
 <div align="center">
   <a href="https://instagram.com/_adriaa.an"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
     <a href="https://facebook.com/adrianfelipe.vargasrivera.9"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3B5998&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
 
-  <a href="www"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+<a href="www"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+<a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a href="https://linkedin.com/in/adrian-vargas-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+
 </div>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=adrianfvr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <br clear="both">
@@ -73,6 +76,3 @@
 [![](https://visitcount.itsvg.in/api?id=adrianfvr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
