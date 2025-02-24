@@ -12,7 +12,7 @@
     <td>
       <h2>🔨 Proyectos</h1>
       <ul>
-        <li><a href="www.fixseven.com"><strong>Fixseven</strong></a> : Sitio web diseñado para la solución de fallos y requerimientos Informáticos.</li>
+        <li><a href="https://www.fixseven.com/"><strong>Fixseven</strong></a> : Sitio web diseñado para la solución de fallos y requerimientos Informáticos.</li>
         <li><a href="https://adrianfvr.github.io/simulador-final/"><strong>Centella</strong></a> : Un simulador de física que muestra el comportamiento de cargas electricas.</li>
       </ul><br>
       <h2>💻 Tecnologías</h1>
