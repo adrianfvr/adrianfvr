@@ -17,9 +17,7 @@
       </ul><br>
       <h2>💻 Tecnologías</h1>
       <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,git,github,python,java" />
-  </a>
 </p>
        <!--<div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
